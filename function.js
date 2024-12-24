@@ -47,8 +47,26 @@
 // arrow function
 
 // let sum = (num1, num2) => num1 + num2;
-let sum = (num1, num2) => {
-                    let total = num1 + num2;
-                    return total * total;
-};
-console.log(sum(10,20));
+// let sum = (num1, num2) => {
+//                     let total = num1 + num2;
+//                     return total * total;
+// };
+// console.log(sum(10,20));
+// // higher order function 
+// function sum(num1,num2,add){
+// return add(num1,num2)
+// };
+// let add=(number1,number2) => number1+number2;
+// console.log(sum(30, 20, add))
+// // IIFE
+// function sum(NAME){
+//  console.log(name)                   
+// }
+
+
+// let X = 5;
+// let Y = '5';
+// let Z = X + Y;
+// console.log(Z);
+
+  
